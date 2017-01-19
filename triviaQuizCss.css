@@ -1,0 +1,12 @@
+@charset "utf-8";
+body{background-image: url(Images/background-Trivia.jpg);
+    background-repeat : no-repeat;
+	           
+	position:absolute; 
+	margin-left: 28%;
+	margin-top: 31%;
+	color:green;
+	font:.5cm;
+	}
+
+

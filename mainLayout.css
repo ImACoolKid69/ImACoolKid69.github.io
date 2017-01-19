@@ -1,0 +1,48 @@
+@charset "utf-8";
+
+html{
+	background: url(Images/mainBackground.jpg) no-repeat center center fixed; 
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+
+h1{
+	color:#83C2E0;
+}
+
+hr{
+	color:#666666;
+}
+	
+h2{
+	text-align:center;
+	color:#A8F0CB
+}
+
+h3{
+	text-align:center;
+	color:#F6FFB8;
+	text-decoration:underline;
+}
+
+ol{
+	font-size:18px;
+	color:#EDAE8D;
+}
+
+.center{
+	width:200px;
+	margin:0 auto;
+	text-align:left;
+}
+
+#main{
+	transition: margin-left .5s;
+    padding: 16px;
+}
+
+a{
+	text-decoration:none;
+}
